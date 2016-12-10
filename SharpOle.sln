@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpOle", "SharpOle\SharpOle.csproj", "{A5AC9130-5280-4279-9BAC-62DBEC144E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpOleTest", "SharpOleTest\SharpOleTest.csproj", "{9CC419E3-EBAC-4AE9-BD63-C31D7E9252D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AC9130-5280-4279-9BAC-62DBEC144E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AC9130-5280-4279-9BAC-62DBEC144E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AC9130-5280-4279-9BAC-62DBEC144E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AC9130-5280-4279-9BAC-62DBEC144E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC419E3-EBAC-4AE9-BD63-C31D7E9252D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC419E3-EBAC-4AE9-BD63-C31D7E9252D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC419E3-EBAC-4AE9-BD63-C31D7E9252D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC419E3-EBAC-4AE9-BD63-C31D7E9252D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
